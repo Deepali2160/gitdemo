@@ -1,4 +1,4 @@
 # gitdemo
 demonstration of using git
-author - deepali<br>
+author - deepali mundra<br>
 my readmne file
